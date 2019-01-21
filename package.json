@@ -1,12 +1,16 @@
 {
-  "name": "apn",
-  "description": "An interface to the Apple Push Notification service for Node.js",
+  "name": "apn-push",
+  "description": "This library is a fork of node-apn. It provides mutable-content support in version 1.6.2 on iOS",
   "version": "1.6.2",
   "author": "Andrew Naylor <argon@mkbot.net>",
   "contributors": [
     {
       "name": "Andrew Naylor",
       "email": "argon@mkbot.net"
+    },
+    {
+      "name": "Asad Iqbal",
+      "email": "asad.dsoft@gmail.com"
     }
   ],
   "keywords": [
@@ -20,11 +24,11 @@
   "main": "index.js",
   "bugs": {
     "email": "argon@mkbot.net",
-    "url": "https://github.com/argon/node-apn/issues"
+    "url": "https://github.com/saadqbal/apn-raix/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/argon/node-apn.git"
+    "url": "https://github.com/saadqbal/apn-raix/apn-push.git"
   },
   "dependencies": {
     "q": "1.x"
