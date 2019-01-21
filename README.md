@@ -15,7 +15,7 @@ A Node.js module for interfacing with the Apple Push Notification service.
 
 Via [npm][]:
 
-	$ npm install apn
+	$ npm install apn-push
 	
 As a submodule of your project (you will also need to install [q][q])
 
@@ -28,7 +28,7 @@ This is intended as a brief introduction, please refer to the documentation in `
 
 ### Load in the module
 
-	var apn = require('apn');
+	var apn = require('apn-push');
 
 ### Connecting
 Create a new connection to the APN gateway server, passing a dictionary of options to the constructor. If you name your certificate and key files appropriately (`cert.pem` and `key.pem`) then the defaults should be suitable to get you up and running. By default the module will connect to the sandbox environment unless the environment variable `NODE_ENV=production` is set. For more information consult the documentation (in doc/apn.markdown).
