@@ -108,6 +108,8 @@ Please include as much detail as possible - especially debug logs, if the proble
 
 ## Credits
 
+mutable-content support in 1.6.2 provided by [Asad Iqbal][saadqbal].
+
 Written and maintained by [Andrew Naylor][andrewnaylor].
 
 Thanks to: [Ian Babrou][bobrik], [dgthistle][dgthistle], [Keith Larsen][keithnlarsen], [Mike P][mypark], [Greg Bergé][neoziro], [Asad ur Rehman][AsadR], [Nebojsa Sabovic][nsabovic], [Alberto Gimeno][gimenete], [Randall Tombaugh][rwtombaugh], [Michael Stewart][thegreatmichael], [Olivier Louvignes][mgcrea], [porsager][porsager], [Craig Hockenberry][chockenberry]
@@ -138,6 +140,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [googlegroup]:https://groups.google.com/group/node-apn "node-apn Google Group"
 [pacapn]:https://github.com/argon/node-apn/wiki/Projects,-Applications,-and-Companies-Using-Node-apn "List of Projects, Applications and Companies Using Node-apn"
 [andrewnaylor]: http://andrewnaylor.co.uk
+[saadqbal]: https://twitter.com/saadqbal
 [bnoordhuis]: http://bnoordhuis.nl
 [npm]: https://npmjs.org
 [bobrik]: http://bobrik.name
